@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dream-of-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dream Of Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dream-of-me/) |
+| **Get License** | [Request Licensing for Dream Of Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dream-of-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5b5cee78f8fdcd806b8f35492297cd26b78a5e5501cdff4251eef7620e95e531` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
